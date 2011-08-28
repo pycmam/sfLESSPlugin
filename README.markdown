@@ -13,7 +13,7 @@ It can do most of `less.js` can:
 
 LESS extends CSS with: variables, mixins, operations and nested rules. For more information, see [http://lesscss.org](http://lesscss.org).
 
-less.js is LESS2. It's written on pure JavaScript & can be runned on both sides - in browser or in node.js.
+less.js is LESS2. It's written on pure JavaScript & can be ran    on both sides - in browser or in node.js.
 
 ## Installation ##
 
@@ -157,7 +157,7 @@ The safest (but probably slowest) option is to enforce everytime compiling:
 	  sf_less_plugin:
 	    check_dates:        false
 
-Also, sfLESSPlugin server side compiler has Web Debug Panel, from which you can view all styles to compile & can open them for edit in prefered editor. For that you need to configure `sf_file_link_format` in `settings.yml`.
+Also, sfLESSPlugin server side compiler has Web Debug Panel, from which you can view all styles to compile & can open them for edit in preferred editor. For that you need to configure `sf_file_link_format` in `settings.yml`.
 
 Last but not least, you can enable CSS compression (remove of whitespaces, tabs & newlines) in server side compiler with:
 
